@@ -8,8 +8,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
       /* Simple styles for the frames */
-      .frame-header { background: #6c757d; color: #fff; padding: 1rem; }
-      .frame { background: #f8f9fa; border: 1px solid #e9ecef; padding: 1rem; min-height: 100px; }
+      .frame-header { background: #eb842fff; color: #fff; padding: 1rem; }
+      .frame { background: rgba(245, 147, 35, 1); border: 1px solid #e9ecef; padding: 1rem; min-height: 100px; }
       .qual-list { margin-top: 0.5rem; }
       .blink {
         animation: blinker 1.2s linear infinite;
