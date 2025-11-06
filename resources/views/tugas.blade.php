@@ -22,11 +22,20 @@
   </head>
   <body>
     <div class="container my-4">
+      <!-- Navigation: Previous / Next -->
+      <div class="d-flex justify-content-between mb-3">
+        <div>
+          <a href="/" class="btn btn-outline-secondary">&larr; Previous</a>
+        </div>
+        <div>
+          <a href="/tugas3" class="btn btn-primary">Next &rarr;</a>
+        </div>
+      </div>
       <!-- First Frame: Name and address (full width) -->
       <div class="row mb-3">
         <div class="col-12 frame-header">
-          <h4 class="mb-0">First Frame: Name and address</h4>
-          <small class="small-muted">John Doe, 123 Example Street, City, Country</small>
+          <h4 class="mb-0">Adriean Baihaqi Rivai & MERUYA</h4>
+          <small class="small-muted">JAKARTA BARAT MERUYA</small>
         </div>
       </div>
 
@@ -37,9 +46,9 @@
             <h5>Second frame</h5>
             <p class="mb-1"><strong>Bulleted list of qualifications</strong></p>
             <ul class="qual-list">
-              <li>Bachelor in Computer Science</li>
-              <li>Experience with Laravel & Bootstrap</li>
-              <li>Teamwork and communication</li>
+              <li>TEKNIK INFORMATIKA</li>
+              <li>PEMULA DENGAN  Laravel & Bootstrap</li>
+              <li>KERJA SAMA TEAM DAN KOMUNIKASI</li>
             </ul>
           </div>
         </div>
@@ -64,7 +73,7 @@
             <p class="mb-2"><strong>Scrolling message</strong></p>
             <!-- simple scrolling message; <marquee> kept for assignment-style behaviour -->
             <div class="small">
-              <marquee behavior="scroll" direction="left">Welcome to the assignment demo — this message scrolls across the frame.</marquee>
+              <marquee behavior="scroll" direction="left">BUMI GONJANG GANJING DAIWA SCRALET MON T BGT .</marquee>
             </div>  
           </div>
         </div>
@@ -72,14 +81,14 @@
           <div class="frame text-center">
             <h6>Fifth frame</h6>
             <p class="mb-2"><strong>Blinking reminders</strong></p>
-            <div class="blink">Don't forget to submit your assignment!</div>
+            <div class="blink">jangan lupa besok kerja rodi lagi :V!</div>
           </div>
         </div>
         <div class="col-md-4 mb-3">
           <div class="frame text-center">
             <h6>Sixth frame</h6>
             <p class="mb-2"><strong>Image</strong></p>
-            <img src="https://via.placeholder.com/200x120.png?text=Image" alt="placeholder" class="img-fluid rounded">
+            <img src="https://th.bing.com/th/id/OIP.UrMqomBkTzjLqiQaDDNedAHaEK?w=328&h=184&c=7&r=0&o=7&pid=1.7&rm=3" alt="placeholder" class="img-fluid rounded">
           </div>
         </div>
       </div>
